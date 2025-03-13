@@ -37,7 +37,6 @@ public class Main {
         int[] filtered = filterEvenIndexOddValue(arr);
         int[] filtered2 = filterEvenIndexOddValue(arr2);
 
-
         for (int num : filtered) {
             System.out.print(num + " ");
         }

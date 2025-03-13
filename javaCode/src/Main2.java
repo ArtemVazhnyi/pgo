@@ -16,7 +16,6 @@ public class Main2 {
                 return candidate;
             }
         }
-
         return -1;
     }
 
